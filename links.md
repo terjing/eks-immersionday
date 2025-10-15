@@ -3,12 +3,8 @@
 • 10:30-11:15 AM - Hands-on Lab: Deploying Sample Applications to EKS (45 min)
 * https://snapshots.eksworkshop.com/3a8a5b76/docs/introduction/getting-started/ 
 
-
 • 11:15 AM-12:00 PM - AWS Load Balancers & EKS Integration (45 min)
 • https://snapshots.eksworkshop.com/3a8a5b76/docs/fundamentals/exposing/loadbalancer/
-
-• 12:00-1:00 PM - Lunch Break (60 min)
-
 
 • 1:00-1:45 PM - EKS Networking and Pod Networking (45 min)
 • https://snapshots.eksworkshop.com/3a8a5b76/docs/networking/vpc-cni/security-groups-for-pods/
